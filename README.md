@@ -1,2 +1,2 @@
 # PricingPage
-Pricing Page Library (Uplabs Challenge)
+Pricing Page Library
